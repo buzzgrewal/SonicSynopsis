@@ -18,32 +18,42 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Training Page
-![250205_19h11m11s_screenshot](https://github.com/user-attachments/assets/8c139806-bc05-4262-9bba-ae0a556057e1)
-
-### Dataset Preview
-![250205_19h11m25s_screenshot](https://github.com/user-attachments/assets/d37b488c-e725-4557-9893-2d8b2b8928d7)
+## Input Field
+![250209_23h32m20s_screenshot](https://github.com/user-attachments/assets/f8eb8dbb-3074-4820-85c1-f47312058f57)
 
 
-### Hyperparameters Adjustment
-![250205_19h11m52s_screenshot](https://github.com/user-attachments/assets/8baa4d82-b366-4541-ad18-a83c638eb5a3)
-
-
-### Epoches and Batch Details 
-![250205_19h11m41s_screenshot](https://github.com/user-attachments/assets/693c16ff-69bc-411d-8552-522e855b1e90)
+## Processing Preview
+![250209_23h32m38s_screenshot](https://github.com/user-attachments/assets/44c9ef2e-ba5a-4188-9ed7-7e57934ac40e)
+![250209_23h33m43s_screenshot](https://github.com/user-attachments/assets/694ad002-ec59-40fe-8efc-15ce71132193)
 
 
 
 
-
-## Model Testing
-![250205_19h12m38s_screenshot](https://github.com/user-attachments/assets/e894efc0-bf80-40f6-b967-d45148fb3faf)
-
-### Model Parameters Adjustment
+## Generated Transcript
+![250209_23h39m14s_screenshot](https://github.com/user-attachments/assets/41ec6bab-3b15-4dd5-ba20-f13198a09596)
 
 
-### Generated Poetry
-![250205_19h13m12s_screenshot](https://github.com/user-attachments/assets/1b765f81-d3b8-4de6-bfb6-9bde888f6a31)
+
+### Generated Summary
+![250209_23h39m23s_screenshot](https://github.com/user-attachments/assets/aec3ec38-1966-4fe2-88da-e11b1c232a07)
+
+
+
+
+
+
+## Translation Language Options
+![250209_23h39m32s_screenshot](https://github.com/user-attachments/assets/50ad5924-432d-4220-a546-62036a1bd955)
+
+
+### Translated Summary
+![250209_23h40m12s_screenshot 1](https://github.com/user-attachments/assets/2fcc4fd5-dd9b-456c-abe4-a164cf13059e)
+
+
+
+## Complete Interface
+![250209_23h40m12s_screenshot](https://github.com/user-attachments/assets/8fed1752-19a7-4468-b321-f43175156a5d)
+
 
 
 
